@@ -24,5 +24,3 @@ I’m a developer passionate about building real-world, user-focused application
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Karthigashri&icon=5&color=9)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->https://gprm.itsvg.in ) -->
