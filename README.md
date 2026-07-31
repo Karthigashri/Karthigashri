@@ -31,39 +31,12 @@ I'm a developer passionate about building real-world, user-focused applications.
 
 # 📊 GitHub Stats:
 
-## 🏆 Ultimate GitHub Trophies
-![Ultimate Trophies](https://github-profile-trophy.vercel.app/?username=Karthigashri&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4&row=1&column=7)
+<!-- Removed Ultimate GitHub Trophies, additional stat cards, trophy collection, and top-repos widget to declutter visuals. -->
 
 ## 📈 Comprehensive Stats Dashboard
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=gruvbox&fontFamily=Agdasima&preferLogin=false">
     <img alt="Karthigashri's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Karthigashri?cardType=github&theme=gruvbox&fontFamily=Agdasima&preferLogin=false" />
 </a>
-
-### 🔥 Additional Stats Cards
-<table>
-<tr>
-<td align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karthigashri&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</td>
-<td align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Karthigashri&theme=radical&hide_border=true" alt="Streak Stats"/>
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthigashri&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-</td>
-</tr>
-</table>
-
-## 🎯 Advanced Trophy Collection
-![Advanced Trophies](https://github-profile-trophy.vercel.app/?username=Karthigashri&theme=onestar&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
-
-### ✍️ Random Dev Quote
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 🔝 Top Contributed Repo
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=Karthigashri&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 
