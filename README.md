@@ -1,39 +1,80 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=500&height=50&lines=Hi+%F0%9F%91%8B+I'm+Karthigashri;Full-Stack+Developer;" alt="Typing SVG" />
-</div>
-
----
+## Hi👋 I'm Karthigashri
 
 # 💫 About Me:
-I’m a developer passionate about building real-world, user-focused applications. I love working with full-stack technologies, exploring problem-solving approaches, and continuously improving my craft.<br><br>💻 Tech I work with:<br>HTML, CSS, JavaScript, React.js, PHP, MySQL, and various APIs & tools.<br><br>🚀 What I enjoy:<br>• Creating responsive, dynamic web apps<br>• Designing clean and intuitive UI/UX<br>• Working on real-time data features<br>• Learning new technologies and improving performance<br><br>🌱 Currently exploring:<br>Advanced backend workflows, scalable system design, and automation.<br><br>📫 Reach me:<br>Always open to collaboration, discussions, and new ideas!
+I'm a developer passionate about building real-world, user-focused applications. I love working with full-stack technologies, exploring problem-solving approaches, and continuously improving my craft.<br><br>💻 Tech I work with:<br>HTML, CSS, JavaScript, React.js, PHP, MySQL, and various APIs & tools.<br><br>🚀 What I enjoy:<br>• Creating responsive, dynamic web apps<br>• Designing clean and intuitive UI/UX<br>• Working on real-time data features<br>• Learning new technologies and improving performance<br><br>🌱 Currently exploring:<br>Advanced backend workflows, scalable system design, and automation.<br><br>📫 Reach me:<br>Always open to collaboration, discussions, and new ideas!
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karthigashrir) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rkarthigashri@gmail.com)
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-# 🐍 GitHub Contribution Snake
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karthigashri/Karthigashri/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karthigashri/Karthigashri/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Karthigashri/Karthigashri/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+# 📊 GitHub Stats:
+
+## 🏆 Ultimate GitHub Trophies
+![Ultimate Trophies](https://github-profile-trophy.vercel.app/?username=Karthigashri&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4&row=1&column=7)
+
+## 📈 Comprehensive Stats Dashboard
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=gruvbox&fontFamily=Agdasima&preferLogin=false">
+    <img alt="Karthigashri's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Karthigashri?cardType=github&theme=gruvbox&fontFamily=Agdasima&preferLogin=false" />
+</a>
+
+### 🔥 Additional Stats Cards
+<table>
+<tr>
+<td align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Karthigashri&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+</td>
+<td align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Karthigashri&theme=radical&hide_border=true" alt="Streak Stats"/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthigashri&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+</td>
+</tr>
+</table>
+
+## 🎯 Advanced Trophy Collection
+![Advanced Trophies](https://github-profile-trophy.vercel.app/?username=Karthigashri&theme=onestar&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
 
 ### ✍️ Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vision-friendly-dark" alt="Dev Quote" />
-</div>
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ### 🔝 Top Contributed Repo
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Karthigashri&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</div>
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=Karthigashri&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-<div align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Karthigashri&icon=5&color=9" alt="Visit Count" /></a>
-</div>
+
+## 📈 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Karthigashri&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)
+
+## 🎯 GitHub Profile Summary Cards
+![Profile Summary](https://github-profile-summary-phi.vercel.app/api/profile-summary?username=Karthigashri&theme=radical)
+
+---
+
+[![Visit Count](https://visitcount.itsvg.in/api?id=Karthigashri&icon=5&color=9)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
