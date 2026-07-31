@@ -40,11 +40,6 @@ I'm a developer passionate about building real-world, user-focused applications.
 
 ---
 
-## 📈 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Karthigashri&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)
-
-## 🎯 GitHub Profile Summary Cards
-![Profile Summary](https://github-profile-summary-phi.vercel.app/api/profile-summary?username=Karthigashri&theme=radical)
 
 ---
 
