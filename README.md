@@ -29,7 +29,6 @@ I'm a developer passionate about building real-world, user-focused applications.
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-# 📊 GitHub Stats:
 
 <!-- Removed Ultimate GitHub Trophies, additional stat cards, trophy collection, and top-repos widget to declutter visuals. -->
 
@@ -38,11 +37,5 @@ I'm a developer passionate about building real-world, user-focused applications.
     <img alt="Karthigashri's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Karthigashri?cardType=github&theme=gruvbox&fontFamily=Agdasima&preferLogin=false" />
 </a>
 
----
-
-
----
-
-[![Visit Count](https://visitcount.itsvg.in/api?id=Karthigashri&icon=5&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
