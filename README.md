@@ -17,13 +17,3 @@ I’m a developer passionate about building real-world, user-focused application
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vision-friendly-dark" alt="Dev Quote" />
 </div>
-
-### 🔝 Top Contributed Repo
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Karthigashri&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</div>
-
----
-<div align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Karthigashri&icon=5&color=9" alt="Visit Count" /></a>
-</div>
