@@ -124,10 +124,10 @@ I'm a developer passionate about building real-world, user-focused applications.
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Karthigashri&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="400" />
+        <img src="https://github-stats-extended.vercel.app/api?username=Karthigashri&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="400" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthigashri&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Karthigashri&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400" />
       </td>
     </tr>
     <tr>
